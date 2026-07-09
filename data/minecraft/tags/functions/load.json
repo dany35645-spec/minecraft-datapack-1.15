@@ -1,5 +1,11 @@
 {
   "values": [
-    "custom:init"
+    "custom:init",
+    "custom:tick",
+    "custom:mobs/defensive_skeleton/check",
+    "custom:mobs/spider_effects/apply",
+    "custom:mobs/super_ravager/check",
+    "custom:items/golden_apple_life/check",
+    "custom:armor/netherite_armor/apply_effects"
   ]
 }
